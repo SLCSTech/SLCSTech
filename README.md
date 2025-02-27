@@ -3,7 +3,7 @@
 <h2>Talking about Personal Stuffs: </br> </h2>
 
 🚶‍   I live in : Sri Lanka 🇱🇰 </br>
-🔭 I’m currently learning Python And HTML ;</br>
+🔭 I’m currently learning Python,Java & CSS ;</br>
 👯 I’m looking to collaborate on </br>
 🤔 I’m looking for help : For Me </br>
 💬 Ask me about anything, I am happy to help; </br>

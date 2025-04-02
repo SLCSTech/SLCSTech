@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at Telegram Aboth [t.me/chenuxme/8](t.me/chenuxme/8)
 
-- 💬 Ask me about **t.me/chenuxme**
+- 💬 Ask me about **www.t.me/chenuxme**
 
-- 📫 How to reach me **t.me/chenuXX**
+- 📫 How to reach me **www.t.me/chenuxx**
 
 - ⚡ Fun fact **Chenux**
 

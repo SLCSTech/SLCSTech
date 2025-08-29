@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slcstech&label=Profile%20views&color=0e75b6&style=flat" alt="slcstech" /> </p>
 
-- GIKA TV [GIKA TV](https://gikatv.netlify.app)
 
-- GIKA RADIO [GIKA RADIO](https://gikaradio.netlify.app/)
-
-- 👨‍💻 All of my projects are available at Telegram Aboth [t.me/chenuxme/8](t.me/chenuxme/8)
+- 👨‍💻 All of my projects are available at Telegram  [t.me/chenuxme/8](t.me/chenuxme/8)
 
 - 💬 Ask me about **www.t.me/chenuxme**
 
